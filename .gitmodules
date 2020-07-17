@@ -1,0 +1,4 @@
+[submodule "src/api/java/thaumcraft"]
+	path = src/api/java/thaumcraft
+	url = https://github.com/Azanor/thaumcraft-api.git
+	branch = 1.7.10
